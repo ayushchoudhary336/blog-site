@@ -1,0 +1,1 @@
+This blog platform — built with JavaScript, TypeScript, Express, Neon DB and Prisma — makes publishing content fast and reliable. Create new posts, edit existing ones, and store everything securely in Neon DB via Prisma’s type-safe ORM. Lightweight, developer-friendly, and ready to plug into any sit
